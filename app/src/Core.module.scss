@@ -1,0 +1,13 @@
+.field {
+  @apply  px-2 py-1 rounded border 
+  border-solid border-transparent
+  duration-500 ease-linear transition-colors 
+  hover:border-primary
+  focus:border-purple
+  shadow-none 
+  outline-none 
+  block mb-6
+  bg-white/35
+  placeholder:text-white
+}
+
